@@ -1,0 +1,8 @@
+{
+  "name": "nishikigi-chisato",
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "whispa-js": "github:ScriptNex/whispa-js"
+  }
+}
