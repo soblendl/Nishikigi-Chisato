@@ -1,26 +1,13 @@
 import { createAPI } from "whispa-js"
+import config from "./config.js"
 
-console.log("🌸 Iniciando Nishikigi Chisato...")
+console.log(`🌸 Iniciando ${config.botName}...`)
 
 async function start(){
 
  try{
 
-  const api = await createAPI({
-
-   sessionPath:"./session",
-
-   plugins:"./plugins",
-
-   prefix:["."],
-
-   owner:[
-    "584125014674"
-   ],
-
-   botName:"Nishikigi Chisato"
-
-  })
+  await createAPI(config)
 
   console.log("[INFO] started")
   console.log("[INFO] Whispa Engine started")
