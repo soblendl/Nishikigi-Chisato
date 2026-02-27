@@ -1,35 +1,40 @@
 import { createAPI } from "whispa-js"
-import config from "./config.js"
+
+console.log("🌸 Iniciando Nishikigi Chisato...")
 
 async function start(){
 
- console.log(`🌸 Iniciando ${config.name}...`)
+ try{
 
- const api = await createAPI({
+  const api = await createAPI({
 
-  sessionPath:config.sessionPath,
+   sessionPath:"./session",
 
-  prefix:config.prefix,
+   plugins:"./plugins",
 
-  owner:config.owner,
+   prefix:["."],
 
-  plugins:config.plugins,
+   owner:[
+    "584125014674"
+   ],
 
-  logLevel:config.logLevel
+   botName:"Nishikigi Chisato"
 
- })
+  })
 
- console.log("✅ Nishikigi Chisato conectada")
+  console.log("[INFO] started")
+  console.log("[INFO] Whispa Engine started")
 
- process.on("SIGINT", async ()=>{
+ }catch(err){
 
-  console.log("🌸 Apagando Nishikigi Chisato...")
+  console.error(
+   "❌ Error iniciando:",
+   err
+  )
 
-  await api.lifecycle.stop()
+  process.exit(1)
 
-  process.exit(0)
-
- })
+ }
 
 }
 
