@@ -94,27 +94,50 @@ Este bot representa la instancia raíz oficial del framework.
 
 ---
 
-🧩 Estructura Moderna de Plugin
+## 🧩 Sistema Moderno de Plugins
 
-Compatible con Whispa JS:
+Nishikigi Chisato utiliza el sistema de plugins moderno impulsado por **Whispa JS**, diseñado para ser simple, rápido y escalable.
 
+Cada comando funciona como un módulo independiente con acceso directo al contexto del bot.
+
+### ✨ Ejemplo básico
+
+```js
 export default {
 
- command:"ping",
+  command:"ping",
 
- async execute(ctx){
+  async execute(ctx){
 
-  await ctx.reply(
-   "🏓 Pong 🌸 Nishikigi Chisato activa"
-  )
+    await ctx.reply(
+      "🏓 Pong 🌸 Nishikigi Chisato activa"
+    )
 
- }
+  }
 
 }
+```
 
-Sin handlers viejos.
-Sin "export default handler".
-Sin estructuras obsoletas.
+---
+
+### 🚀 Ventajas del Sistema
+
+- ⚡ Carga automática de comandos
+- 🔌 Plugins totalmente modulares
+- 🧠 Context API integrada (`ctx`)
+- 🛡️ Protección contra errores de plugins
+- 📦 Escalable para cientos de comandos
+
+---
+
+### ❌ Lo que NO usamos
+
+- Handlers antiguos.
+- `export default handler`.
+- Sistemas monolíticos.
+- Estructuras obsoletas.
+
+Whispa JS apuesta por una arquitectura limpia preparada para evolucionar sin romper compatibilidad.
 
 ---
 
@@ -170,6 +193,7 @@ Busca ser:
 <div align="center">💜 Proyecto impulsado por visión y arquitectura.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></div>
+
 
 
 
