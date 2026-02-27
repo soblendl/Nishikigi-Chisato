@@ -171,13 +171,24 @@ Bot activo.
 
 ---
 
-🔒 Filosofía del Proyecto
+## 🔒 Filosofía del Proyecto
+
+<div align="center">
+
+<img src="https://files.catbox.moe/75zsmq.jpeg" width="160" />
+
+</div>
 
 Nishikigi Chisato no busca ser un bot más.
 
 Busca ser:
 
-««Una arquitectura limpia capaz de evolucionar sin romperse.»»
+> **«Una arquitectura limpia capaz de evolucionar sin romperse.»**
+
+Un núcleo sólido.
+Una base estable.
+Un diseño pensado para escalar sin perder coherencia.
+
 
 ---
 
@@ -193,6 +204,7 @@ Busca ser:
 <div align="center">💜 Proyecto impulsado por visión y arquitectura.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></div>
+
 
 
 
