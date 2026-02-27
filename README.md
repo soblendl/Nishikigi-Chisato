@@ -1,6 +1,8 @@
 <div align="center"><img src="https://rogddqelmxyuvhpjvxbf.supabase.co/storage/v1/object/public/files/j4w0o2fwnni.jpeg">🌸 Nishikigi Chisato
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Arquitectura+moderna+sin+l%C3%ADmites+🚀" /><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bot%20Raíz%20Oficial&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/></div>---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Arquitectura+moderna+sin+l%C3%ADmites+🚀" /><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bot%20Raíz%20Oficial&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+---
 
 🌟 ¿Qué es Nishikigi Chisato?
 
@@ -136,3 +138,4 @@ Busca ser:
 <div align="center">💜 Proyecto impulsado por visión y arquitectura.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></div>
+
