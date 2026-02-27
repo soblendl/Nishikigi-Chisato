@@ -4,23 +4,47 @@
 
 ---
 
-🌟 ¿Qué es Nishikigi Chisato?
+<div align="center">
 
-Nishikigi Chisato es el Bot Raíz Oficial impulsado por el framework Whispa JS.
+<img src="URL_IMAGEN_FRAMEWORK_AQUI" width="160" />
 
-Este proyecto representa una arquitectura moderna basada en:
+<br/>
 
-- WebSocket directo (Baileys)
-- Sistema modular de plugins
-- Lifecycle Manager avanzado
-- Reconexión inteligente
-- Middleware & Interceptors
+### 🔥 Motor Oficial
+
+**Framework Whispa JS**
+
+[🔗 https://github.com/ScriptNex/whispa-js](https://github.com/ScriptNex/whispa-js)
+
+</div>
+
+---
+
+## 🌟 ¿Qué es Nishikigi Chisato?
+
+**Nishikigi Chisato** es el **Bot Raíz Oficial** construido sobre el framework moderno **Whispa JS**.
+
+No es simplemente una instancia de bot.
+
+Es la implementación principal que valida y demuestra la arquitectura del framework en producción.
+
+---
+
+### 🏗️ Arquitectura Base
+
+Este proyecto representa una estructura moderna basada en:
+
+- 🔌 WebSocket directo (Baileys)
+- 🧩 Sistema modular de plugins
+- ♻️ Lifecycle Manager inteligente
+- 🛡️ Reconexión controlada
+- ⚙️ Middleware & sistema extensible
+
+---
 
 No es solo un bot.
 
-Es una base sólida diseñada para escalar.
-
----
+Es una base sólida diseñada para escalar, evolucionar y mantenerse estable a largo plazo.
 
 ---
 
@@ -214,6 +238,7 @@ Un diseño pensado para escalar sin perder coherencia.
 <div align="center">💜 Proyecto impulsado por visión y arquitectura.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></div>
+
 
 
 
