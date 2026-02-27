@@ -100,15 +100,27 @@ Sin estructuras obsoletas.
 
 ---
 
-📂 Instalación
+# 📂 Instalación via termux 
 
+```bash
+termux-setup-storage
+```
+```bash
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+```
+```bash
 git clone https://github.com/ScriptNex/Nishikigi-Chisato.git
+```
 
+```bash
 cd Nishikigi-Chisato
-
+```
+```bash
 npm install
-
+```
+```bash
 node index.js
+```
 
 Escanea el QR.
 
@@ -140,5 +152,6 @@ Busca ser:
 <div align="center">💜 Proyecto impulsado por visión y arquitectura.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></div>
+
 
 
