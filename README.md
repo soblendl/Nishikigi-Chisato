@@ -14,7 +14,7 @@
 
 **Framework Whispa JS**
 
-[🔗 https://github.com/ScriptNex/whispa-js](https://github.com/ScriptNex/whispa-js)
+[🔗https://github.com/ScriptNex/whispa-js](https://github.com/ScriptNex/whispa-js)
 
 </div>
 
@@ -237,6 +237,7 @@ Un diseño pensado para escalar sin perder coherencia.
 <div align="center">💜 Proyecto impulsado por visión y arquitectura.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></div>
+
 
 
 
