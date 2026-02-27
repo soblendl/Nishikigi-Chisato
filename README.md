@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="URL_IMAGEN_FRAMEWORK_AQUI" width="160" />
+<img src="https://files.catbox.moe/so7xd9.jpeg" width="160" />
 
 <br/>
 
@@ -77,7 +77,6 @@ const Neykoor = {
 }
 ```
 
----
 
 ---
 
@@ -238,6 +237,7 @@ Un diseño pensado para escalar sin perder coherencia.
 <div align="center">💜 Proyecto impulsado por visión y arquitectura.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></div>
+
 
 
 
