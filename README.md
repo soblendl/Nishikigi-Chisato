@@ -189,21 +189,32 @@ Un núcleo sólido.
 Una base estable.
 Un diseño pensado para escalar sin perder coherencia.
 
-
 ---
 
-⭐ Estado del Proyecto
+## ⭐ Estado del Proyecto
 
-🟢 Estable
-🟢 Escalable
-🟢 Arquitectura moderna
-🟢 Producción lista
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Architecture-Modular-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Framework-Whispa%201.1-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Production-Ready-brightgreen?style=for-the-badge" />
+
+</div>
+
+### 📊 Estado Actual
+
+- 🟢 Sistema estable y funcional.
+- ⚡ Arquitectura modular preparada para expansión.
+- 🧠 Framework moderno basado en eventos.
+- 🚀 Listo para uso en producción.
 
 ---
 
 <div align="center">💜 Proyecto impulsado por visión y arquitectura.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></div>
+
 
 
 
