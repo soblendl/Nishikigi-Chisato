@@ -22,20 +22,38 @@ Es una base sólida diseñada para escalar.
 
 ---
 
-👑 Owner Oficial
+---
 
-Proyecto mantenido y gestionado por:
+## 👑 Owner Oficial
 
-Neykoor
+<div align="center">
 
-Desarrollador enfocado en arquitectura limpia, estabilidad y escalabilidad.
+<img src="https://github.com/ScriptNex.png" width="160" style="border-radius: 50%;" />
 
+### Neykoor  
+Root Owner & Arquitecto de Whispa JS
+
+[![GitHub](https://img.shields.io/badge/GitHub-@ScriptNex-181717?style=for-the-badge&logo=github)](https://github.com/ScriptNex)
+
+</div>
+
+Proyecto mantenido y gestionado por **Neykoor**, desarrollador enfocado en:
+
+- 🏗️ Arquitectura limpia
+- ⚙️ Estabilidad estructural
+- 📈 Escalabilidad real
+- 🔒 Diseño sólido de bots raíz
+
+```js
 const Neykoor = {
   role: "Root Owner",
   framework: "Whispa JS",
   focus: "Arquitectura limpia y escalable",
   mission: "Crear bots raíz sólidos y profesionales"
 }
+```
+
+---
 
 ---
 
@@ -152,6 +170,7 @@ Busca ser:
 <div align="center">💜 Proyecto impulsado por visión y arquitectura.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/></div>
+
 
 
 
